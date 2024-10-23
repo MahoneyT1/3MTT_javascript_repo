@@ -1,0 +1,14 @@
+{
+  "type": "module",
+  "name": "3mtt_javascript_repo",
+  "version": "1.0.0",
+  "description": "javascript async functions project",
+  "main": "0-custom_project.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node 0-custom_project.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
