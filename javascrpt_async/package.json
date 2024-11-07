@@ -1,0 +1,16 @@
+{
+  "name": "javascrpt_async",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "promise and async await",
+  "main": "0-main.js",
+  "scripts": {
+    "dev": "node 0-main.js",
+    "test": "npm run-script"
+  },
+  "author": "Ifeanyi Victor",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
